@@ -1,4 +1,4 @@
-# JEIS3005 FEA and Section Property 解决方案
+# JEIS3005 FEA 解决方案
 
 本仓库仅包含 Jupyter Notebook 文件，用于 JEIS3005 Marine Structures 课程中相关计算问题的求解，主要包括：
 
